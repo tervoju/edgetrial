@@ -33,7 +33,7 @@ az deployment group create \
   --template-uri 
   --parameters scopeID="0ne0040D798" \
   --parameters deviceID="23usjxkypgy" \
-  --parameters deviceKey="9aP5lOv5Z2iIJ5m8Api5Q00Hfhy0pbajc7BENVYZAUw="
+  --parameters deviceKey="aP5lOv5Z2iIJ5m8Api5Q00Hfhy0pbajc7BENVYZAUw="
 
 
 az deployment group create \
