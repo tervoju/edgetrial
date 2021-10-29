@@ -36,7 +36,7 @@
             "status": "running",
             "restartPolicy": "always",
             "settings": {
-              "image": "localhost:5000/centralmodule:0.0.1-amd64",
+              "image": "siloiot.azurecr.io/centralmodule:0.0.1-amd64",
               "createOptions": "{}"
             }
           },
